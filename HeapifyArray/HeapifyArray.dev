@@ -24,12 +24,12 @@ HostApplication=
 UseCustomMakefile=0
 CustomMakefile=
 CommandLine=
-Folders=IndexOne,LastIndex,Original
+Folders=IndexOne,Original
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=2
-CompilerSettings=0000000000000000100000000
-UnitCount=7
+CompilerSettings=0000000000000000101000000
+UnitCount=4
 
 [VersionInfo]
 Major=1
@@ -70,20 +70,10 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit3]
-FileName=HeapifyArray.h
-CompileCpp=0
-Folder=Original
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit4]
-FileName=IndexOne.h
+FileName=Functions.h
 CompileCpp=0
-Folder=IndexOne
+Folder=
 Compile=1
 Link=1
 Priority=1000
@@ -101,19 +91,12 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit6]
-FileName=LastIndex.c
-CompileCpp=0
-Folder=LastIndex
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
+FileName=Functions.h
 
-[Unit7]
-FileName=lastIndex.h
+[Unit3]
+FileName=IndexOne.c
 CompileCpp=0
-Folder=LastIndex
+Folder=IndexOne
 Compile=1
 Link=1
 Priority=1000
