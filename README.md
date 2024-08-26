@@ -6,4 +6,4 @@ The purpose of this repository is to keep track of files & projects used in the 
 
 |Projects 						|Commits					|
 |-------------------------------|---------------------------|
-|[Heapify Array Implementation](https://github.com/keylperez/Algorithms-and-Complexity/tree/main/HeapifyArray)  	| 			|
+|[Heapify Array Implementation](https://github.com/keylperez/Algorithms-and-Complexity/tree/main/HeapifyArray)  	| [bc603a1](https://github.com/keylperez/Algorithms-and-Complexity/commit/bc603a144b409c6c3370eb13a82c29a66e90064d)			|
