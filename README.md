@@ -5,5 +5,5 @@ The purpose of this repository is to keep track of files & projects used in the 
 ## Folder Structure
 
 |Projects 						|Commits					|
-|-------------------------------|---------------------------|
-|[Heapify Array Implementation](https://github.com/keylperez/Algorithms-and-Complexity/tree/main/HeapifyArray)  	| [bc603a1](https://github.com/keylperez/Algorithms-and-Complexity/commit/bc603a144b409c6c3370eb13a82c29a66e90064d)			|
+|-------------------------------------------------------|-----------------------------------------------|
+|[Heapify Array Implementation](https://github.com/keylperez/Algorithms-and-Complexity/tree/main/HeapifyArray)  	| [Submission](https://github.com/keylperez/Algorithms-and-Complexity/commit/7d63bff289143f909dbda2b31d5a824c579d1e5a)			|
