@@ -24,12 +24,12 @@ HostApplication=
 UseCustomMakefile=0
 CustomMakefile=
 CommandLine=
-Folders=IndexOne,Original
+Folders=HeapifyArray,HeapifyStruct
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=2
 CompilerSettings=0000000000000000101000000
-UnitCount=4
+UnitCount=5
 
 [VersionInfo]
 Major=1
@@ -61,9 +61,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit2]
-FileName=HeapifyArray.c
+FileName=HeapifyStruct.c
 CompileCpp=0
-Folder=Original
+Folder=HeapifyStruct
 Compile=1
 Link=1
 Priority=1000
@@ -71,9 +71,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit4]
-FileName=Functions.h
+FileName=HeapifyStruct.h
 CompileCpp=0
-Folder=
+Folder=HeapifyStruct
 Compile=1
 Link=1
 Priority=1000
@@ -81,9 +81,9 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit5]
-FileName=IndexOne.c
+FileName=HeapifyArray.h
 CompileCpp=0
-Folder=IndexOne
+Folder=HeapifyArray
 Compile=1
 Link=1
 Priority=1000
@@ -94,9 +94,9 @@ BuildCmd=
 FileName=Functions.h
 
 [Unit3]
-FileName=IndexOne.c
+FileName=HeapifyArray.c
 CompileCpp=0
-Folder=IndexOne
+Folder=HeapifyArray
 Compile=1
 Link=1
 Priority=1000

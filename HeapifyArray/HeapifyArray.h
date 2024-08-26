@@ -1,15 +1,20 @@
 #ifndef HEAPIFY_ARRAY
 #define HEAPIFY_ARRAY
-
-typedef struct {
-	int *set;
-	int lastIndex;
-} MaxHeap;
-
-void initHeap(MaxHeap *heap);
+#define SIZE 15
 
 int getLeftChild(int n);
 
 int getRightChild(int n);
 
-#endif
+int getParent(int n);
+
+void buildHeap(int arr[], int size, int heap[]);
+
+void heapify(int data, int index, int heap[]);
+
+
+bool isEmpty(int heap[]);
+
+void displayHeap(int heap[]);
+
+#endif	
